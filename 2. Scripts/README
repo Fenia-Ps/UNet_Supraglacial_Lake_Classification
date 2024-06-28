@@ -1,1 +1,3 @@
-
+Script 1 includes the normalization of the Sentinel-1 Greenland dataset, the creation of 10 perturbed datasets based on the original testing dataset. Based on those, a sensitivity analysis is conducted to better understand why and why the model performs well or poorly.
+Script 2 includes the preparation of the Greenland and Antarctic dataset in order to be fed into the U-Net.
+Script 3 includes the training and prediction steps.
