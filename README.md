@@ -1,0 +1,1 @@
+This repository includes the notebooks created to perform a Semantic segmentation task on Greenland Sentinel-1 data. The goal was to create a model that distinguishes between draining and refreezing lakes that occur through the melt season.
